@@ -1,5 +1,5 @@
 """
-Professional Async API Quotex - Core module
+Professional Async API Quotex - Core module modiles
 Fully async implementation with modern Python practices
 """
 from .client import AsyncQuotexClient
